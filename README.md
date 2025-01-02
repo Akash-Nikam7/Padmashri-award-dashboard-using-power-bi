@@ -37,7 +37,7 @@ The **Padma Shri Awards Dashboard** is an interactive Power BI project that prov
 ## How to Use
 
 1. Clone or download this repository.
-2. Open the Power BI file (`PadmaShriDashboard.pbix`).
+2. Open the Power BI file (`Padmashri Awards.pbix`).
 3. Interact with the dashboard by using the provided slicers and visuals.
 
 ## Data Sources
